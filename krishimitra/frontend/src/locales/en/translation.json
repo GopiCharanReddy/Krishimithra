@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "KrishiMitra",
+    "subtitle": "Smart Soil Analysis for Better Crops"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Empowering Farmers for Sustainable Agriculture",
+    "description": "Our mission is to empower farmers with the resources and knowledge they need to grow their crops sustainably and effectively through smart soil analysis.",
+    "cta": "Get Started"
+  },
+  "features": {
+    "title": "How KrishiMitra Works",
+    "step1": "Input Soil Data",
+    "step1Desc": "Enter your soil's nitrogen, phosphorus, potassium levels, pH, temperature, humidity, and rainfall data.",
+    "step2": "AI Crop Recommendation",
+    "step2Desc": "Our advanced AI analyzes your data and recommends the top 3 most suitable crops for your soil conditions.",
+    "step3": "Expert Chatbot Support",
+    "step3Desc": "Get detailed farming guidance, pest control tips, and irrigation schedules through our intelligent chatbot.",
+    "step4": "Local Language Support",
+    "step4Desc": "All recommendations and guidance are provided in your local language for better understanding and implementation."
+  },
+  "home": {
+    "manualEntry": "Manual Soil Analysis",
+    "manualEntryDesc": "Enter your soil parameters manually for precise crop recommendations.",
+    "autoDetect": "Auto-detect soil (Coming soon)",
+    "autoDetectDesc": "We will use your location and SoilGrids API to automatically fetch soil proportions around you.",
+    "whyChoose": "Why Choose KrishiMitra?"
+  },
+  "form": {
+    "title": "Input soil proportions",
+    "nitrogen": "Nitrogen (N)",
+    "phosphorus": "Phosphorus (P)",
+    "potassium": "Potassium (K)",
+    "temperature": "Temperature (T)",
+    "humidity": "Humidity (H)",
+    "ph": "pH",
+    "rainfall": "Rainfall",
+    "placeholder": "e.g. {{value}}",
+    "submit": "Analyze Soil"
+  },
+  "result": {
+    "title": "Your Crop Analysis Results",
+    "subtitle": "Comprehensive soil analysis and personalized crop recommendations",
+    "reportTitle": "Soil & Crop Analysis Report",
+    "reportDesc": "Based on your soil inputs, here are personalized recommendations tailored for your farm's success.",
+    "recommendedCrops": "Recommended Crops",
+    "nutrientProfile": "Nutrient Profile",
+    "expertGuidance": "Expert Field Guidance",
+    "organicFertilizer": "Organic Fertilizer Recipe",
+    "chatCtaTitle": "Need More Personalized Advice?",
+    "chatCtaDesc": "Chat with our AI agricultural expert to get dynamic recommendations.",
+    "chatCtaButton": "Start Expert Chat"
+  },
+  "chatbot": {
+    "title": "Agricultural Expert Assistant",
+    "subtitle": "Get personalized farming advice",
+    "welcomeTitle": "Welcome to KrishiMitra Chat",
+    "welcomeDesc": "I'm your agricultural expert assistant, ready to help you with farming guidance.",
+    "inputPlaceholder": "Ask me anything about farming...",
+    "send": "Send",
+    "sending": "Sending..."
+  }
+}
